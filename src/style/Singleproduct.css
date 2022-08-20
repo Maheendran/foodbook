@@ -1,0 +1,46 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.detailpage{
+   padding-top: 5rem;
+    width: 100%;
+    height: 100%;
+    border: 0px solid;
+    display: flex;
+    justify-content: center;
+    line-height: 2rem;
+}
+.detailpage div{
+    padding: 2rem;
+    width: 40%;
+    border: 0px solid;
+}
+.left-detailpage img{
+width: 80%;
+}
+.right-detailpage{
+    padding: 1rem;
+}
+.right-detailpage button{
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 0.5rem 1rem;
+    font-size: 1.2rem;
+    font-weight: 600;
+}
+.right-detailpage h2{
+    font-size: 3rem;
+}
+.right-detailpage p{
+    /* line-height: 3rem; */
+    padding: 0.5rem;
+    font-size: 1.5rem;
+}
+.right-detailpage button:hover{
+    background-color: rgb(97, 100, 97);
+    color: white;
+   
+    
+}
