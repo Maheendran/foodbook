@@ -6,11 +6,11 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://i.postimg.cc/x17bn7bW/React-App-and-2-more-pages-Personal-Microsoft-Edge-09-09-2022-17-44-33.png" alt="project-screenshot" width="100%" height="400/">
+<img src="https://i.postimg.cc/x17bn7bW/React-App-and-2-more-pages-Personal-Microsoft-Edge-09-09-2022-17-44-33.png" alt="project-screenshot" width="100%" height="100%/">
 
-<img src="https://i.postimg.cc/g262q0nT/React-App-and-2-more-pages-Personal-Microsoft-Edge-09-09-2022-17-49-25.png" alt="project-screenshot" width="100%" height="400/">
+<img src="https://i.postimg.cc/g262q0nT/React-App-and-2-more-pages-Personal-Microsoft-Edge-09-09-2022-17-49-25.png" alt="project-screenshot" width="100%" height="100%/">
 
-<img src="https://i.postimg.cc/3rS8sGGq/React-App-and-2-more-pages-Personal-Microsoft-Edge-09-09-2022-17-51-02.png" alt="project-screenshot" width="100%" height="400/">
+<img src="https://i.postimg.cc/3rS8sGGq/React-App-and-2-more-pages-Personal-Microsoft-Edge-09-09-2022-17-51-02.png" alt="project-screenshot" width="100%" height="100%/">
 
   
   
