@@ -19,11 +19,52 @@ axios.get(chicken).then((res)=>{
 
       return (
     <div>
+<div className='topbanner'>
+
+<div className='leftbanner'>
+<div className='heading'>
+  
+<h1>
+  <span>Home</span>
+   <span style={{color:"orange"}}>Delivery</span>  </h1>
+  <p>Order food online from restaurants and get it delivered. Serving in Bangalore, Hyderabad, Delhi, Gurgaon, Nagpur, Jaipur, Coimbatore, Chandigarh, Ahemdabad</p>
+  <button>Order Now</button>
+</div>
+</div>
+<div className='rightbannner'>
+<div className='backgroundcircle'></div>
+<div className='maincircle'>
+
+<div className='cicle1'>
+  <img src="./image 2.png" alt="" />
+</div>
+<div className='cicle2'>
+  <img src="./image 3.png" alt="" />
+</div>
+<div className='cicle3'>
+  <img src="./image 5.png" alt="" />
+</div>
+<div className='cicle4'>
+  <img src="./image 6.png" alt="" />
+</div>
+
+
+
+
+</div>
+
+</div>
+
+
+
+</div>
+
+
 
        <div className='banner'>
         <h1 style={{color:"grey",padding:"1rem"}}>Trending</h1>
-<Splide options={{perPage:4,
-   drag:'free',gap:"1rem"
+<Splide options={{perPage:5,
+   drag:'free'
   }}>
 {popular.map((e)=>(
  <SplideSlide  key={e.idMeal}>

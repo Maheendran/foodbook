@@ -9,6 +9,8 @@ a{
 }
 .nav-container{
     position: fixed;
+    top: 0;
+    left: 0;
     width: 100%;
     height: 80px;
     box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
@@ -87,13 +89,13 @@ z-index: -1;
     z-index: 10000;
     margin-top: 5rem;
     position: fixed;
-    right: 0;
+top: 0;
     width: 32rem;
     height: 90vh;
     border: 0px solid;
     right: 0;
     transition: 1s ease-in-out;
-    background-color: rgb(247, 247, 247);
+    background-color: rgb(255, 255, 255);
     padding: 1rem;
 }
 .cart::-webkit-scrollbar{
